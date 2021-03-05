@@ -1,6 +1,4 @@
 ### Welcome to Jota's beaitiful GitHub account.
-<!--
-**srjotaf/srjotaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 In my ID documents my name is João Francisco, however ever since I'm a toddler I've been Jota (which is the tenth letter of the alphabet in portuguese), so call me Jota. I'm from Brasil, and a bachelor student of electrical engineering at @USP. 
 
