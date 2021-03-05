@@ -1,4 +1,4 @@
-### Welcome to Jota's beaitiful GitHub account.
+### Welcome to Jota's beautiful GitHub account.
 
 In my ID documents my name is João Francisco, however ever since I'm a toddler I've been Jota (which is the tenth letter of the alphabet in portuguese), so call me Jota. I'm from Brasil, and a bachelor student of electrical engineering at @USP. 
 
