@@ -1,8 +1,29 @@
-### Welcome to Jota's beautiful GitHub account.
+### Welcome to my GitHub account.
+### Seja bem vindo ao meu GitHub.
 
-In my ID documents my name is João Francisco, however ever since I'm a baby I've been Jota (which is the tenth letter of the alphabet in portuguese), so call me Jota. I'm from Brasil, and a bachelor student of electrical engineering at @USP. 
+My name is João Francisco and I am a bachelor student of electrical engineering at Universidade de São Paulo (USP), campus of São Carlos.
+Meu nome é João Francisco e eu sou um estudante de graduação em engenharia elétrica na Universidade de São Paulo (USP), no campus de São Carlos.
 
-- 🔭 I’m currently working on personal projects for learning and also some school projects.
-- 🌱 I’m currently studying Python which is the language I'm most proficient and a few Python related subjects such as Pandas and Jupyter notebooks. I'm also studying some other languages such as C++, and Javascript. I haven't been the best at keeping this GitHub account updated, however that will happen with future projects from now on.
-- 📫 How to reach me: srjotafrancisco@gmail.com
-- 😄 Pronouns: He/him
+📚 Currently I am working on my end of course project (TCC) on modeling and voltage stability analysis of electrical networks with high presence of solar power systems. 
+📚 Atualmente estou trabalhando no meu trabalho de conclusão de curso (TCC) com modelagem e análise de estabilidade de tensão de redes elétricas com alta presença de geração solar.
+-
+-
+-
+
+🤖 I also might post some other projects I develop at my work:
+🤖 Eu talvez também poste aqui alguns projetos que desenvolva em meu trabalho:
+- PPTX-Auto 
+- 
+-
+
+🔭 Or personal projects:
+🔭 Ou projetos pessoais:
+- 
+-
+-
+
+
+📫 How to reach me: srjotafrancisco@gmail.com, 
+
+📫 How to reach me: srjotafrancisco@gmail.com
+
