@@ -20,7 +20,7 @@ My name is João Francisco and I am a bachelor student of electrical engineering
 -
 
 
-📫
+📫Contact information. 📫 Informações para contato: 
 - Email: joaofranciscodmsilva@gmail.com,
 - LinkedIn: www.linkedin.com/in/joaofranciscodmsilva 
 
