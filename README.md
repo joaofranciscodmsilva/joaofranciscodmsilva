@@ -30,5 +30,5 @@ Meu nome é João Francisco e eu sou um estudante de graduação em engenharia e
 
 📫 How to reach me: joaofranciscodmsilva@gmail.com,
 
-📫 How to reach me: joaofranciscodmsilva@gmail.com
+📫 Como me contatar: joaofranciscodmsilva@gmail.com
 
