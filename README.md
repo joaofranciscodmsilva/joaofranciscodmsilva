@@ -1,5 +1,4 @@
-### Welcome to my GitHub account.
-### Seja bem vindo ao meu GitHub.
+### Welcome to my GitHub account. Seja bem vindo ao meu GitHub.
 
 My name is João Francisco and I am a bachelor student of electrical engineering at Universidade de São Paulo (USP), campus of São Carlos.
 
