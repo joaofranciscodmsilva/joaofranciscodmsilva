@@ -10,21 +10,21 @@
 -
 -
 
-🤖 I also might post some other projects I develop at work.  
+🤖 I also might post some other projects I develop at work:  
 🤖 Eu talvez também poste aqui alguns projetos que desenvolva em meu trabalho:
-- PPTX-Auto 
+- [PPTX-Automatico](https://github.com/joaofranciscodmsilva/PPTX-Automatico)
 - 
 -
 
-🔭 Or personal projects.  
+
+🔭 Or personal projects:  
 🔭Ou projetos pessoais:
-
-- 
+- [Meu vault template do Obsidian](https://github.com/joaofranciscodmsilva/obsidian)
 -
 -
 
 
-📫Contact information.  
+📫Contact information:  
 📫 Informações para contato: 
 - Email: joaofranciscodmsilva@gmail.com,
 - LinkedIn: www.linkedin.com/in/joaofranciscodmsilva 
