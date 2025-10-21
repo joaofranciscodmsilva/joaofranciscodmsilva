@@ -19,7 +19,7 @@
 
 🔭 Or personal projects:  
 🔭Ou projetos pessoais:
-- [Meu vault template do Obsidian](https://github.com/joaofranciscodmsilva/obsidian)
+- [Meu vault template do Obsidian](https://github.com/joaofranciscodmsilva/obsidian_template_vault)
 -
 -
 
