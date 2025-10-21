@@ -27,5 +27,5 @@
 📫Contact information:  
 📫 Informações para contato: 
 - Email: joaofranciscodmsilva@gmail.com,
-- LinkedIn: www.linkedin.com/in/joaofranciscodmsilva 
+- LinkedIn: [linkedin.com/in/joaofranciscodmsilva](www.linkedin.com/in/joaofranciscodmsilva)
 
