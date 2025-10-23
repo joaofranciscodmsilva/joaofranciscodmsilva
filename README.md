@@ -26,6 +26,6 @@
 
 📫Contact information:  
 📫 Informações para contato: 
-- Email: joaofranciscodmsilva@gmail.com,
+- Email: joaofranciscodmsilva@protonmail.com,
 - LinkedIn: [linkedin.com/in/joaofranciscodmsilva](www.linkedin.com/in/joaofranciscodmsilva)
 
